@@ -1,0 +1,34 @@
+
+.show-password-container{
+    background-color:  #5763a5;
+    display: flex;
+    width: 90%;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 30px;
+    height: 600px;
+    flex-direction: column;
+}
+
+.show-password-header{
+    display: flex;
+}
+.heading-box{
+    display: flex;
+    align-items: center;
+}
+
+
+.search-input-box{
+    background-color: #ffffff;
+}
+
+.search-icon{
+    width: 20px;
+}
+/* 
+.search-bar-input{
+}
+.search-bar-input:focus{
+    outline: none;
+} */
